@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EPFCCommunicator</string>
+    <string name="Edit_Text">Enter a message</string>
+    <string name="Buton_Send">Send</string>
+</resources>
